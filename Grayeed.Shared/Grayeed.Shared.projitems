@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <MSBuildAllProjects>$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
+    <HasSharedItems>true</HasSharedItems>
+    <SharedGUID>1a91bf20-25f1-47eb-b903-5582924c503a</SharedGUID>
+  </PropertyGroup>
+  <PropertyGroup Label="Configuration">
+    <Import_RootNamespace>Grayeed</Import_RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="$(MSBuildThisFileDirectory)App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <Compile Include="$(MSBuildThisFileDirectory)App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)BingResponse.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)GrayedInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="$(MSBuildThisFileDirectory)Assets\Ahram.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\AkhbarAlMsrieen.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\AkhbarElYoum.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\Akhbark.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\AkhbarnaAlyom.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\AlBadil.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\AlBshayer.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\AlbwabaNews.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\AlDostor.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\Alfagr.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\Aljomhoria.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\Alkhamees.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\AlMasrion.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\AlmasryAlyoum.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\Almogaz.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\AlNahar.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\AlQahiraAlyom.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\AlSabahElAraby.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\AlShaab.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\AlShrouk.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\AlTahrir.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\Alwafd.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\AlWast.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\AlWatn.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\AlyoumAlsabee.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\bWABTaLoSBOO.PNG" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\Email.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\Facebook.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\FaceMasr.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\gPlus.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\IC488534.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\Instagram.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\LinkedIn.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\MasrAlArbia.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\MasrAlyom.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\MasrFive.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\mmmmmm.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\Moheet.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\Ona.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\Phone.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\Rasd.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\SadaElBalad.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\Sha3bMasr.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\ssssss.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\twitter.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\Veto.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\webSite.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Assets\youtube.png" />
+  </ItemGroup>
+</Project>

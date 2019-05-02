@@ -1,0 +1,110 @@
+D:\Study\Grayeed\Grayeed\Grayeed.WindowsPhone\bin\Debug\App.xbf
+D:\Study\Grayeed\Grayeed\Grayeed.WindowsPhone\bin\Debug\about_page.xbf
+D:\Study\Grayeed\Grayeed\Grayeed.WindowsPhone\bin\Debug\MainPage.xbf
+D:\Study\Grayeed\Grayeed\Grayeed.WindowsPhone\bin\Debug\MapPage.xbf
+D:\Study\Grayeed\Grayeed\Grayeed.WindowsPhone\bin\Debug\SecondPage.xbf
+D:\Study\Grayeed\Grayeed\Grayeed.WindowsPhone\bin\Debug\WebViewPage.xbf
+D:\Study\Grayeed\Grayeed\Grayeed.WindowsPhone\bin\Debug\Grayeed.WindowsPhone.xr.xml
+D:\Study\Grayeed\Grayeed\Grayeed.WindowsPhone\bin\Debug\Grayeed.WindowsPhone.exe
+D:\Study\Grayeed\Grayeed\Grayeed.WindowsPhone\bin\Debug\Grayeed.WindowsPhone.pdb
+D:\Study\Grayeed\Grayeed\Grayeed.WindowsPhone\bin\Debug\resources.pri
+D:\Study\Grayeed\Grayeed\Grayeed.WindowsPhone\bin\Debug\AppxManifest.xml
+D:\Study\Grayeed\Grayeed\Grayeed.WindowsPhone\bin\Debug\Grayeed.WindowsPhone.build.appxrecipe
+D:\Study\Grayeed\Grayeed\Grayeed.WindowsPhone\bin\Debug\AdDuplex.Universal.Controls.WinPhone.XAML.dll
+D:\Study\Grayeed\Grayeed\Grayeed.WindowsPhone\bin\Debug\AdDuplex.Universal.WinPhone.WinRT.winmd
+D:\Study\Grayeed\Grayeed\Grayeed.WindowsPhone\obj\Debug\App.g.i.cs
+D:\Study\Grayeed\Grayeed\Grayeed.WindowsPhone\obj\Debug\App.g.cs
+D:\Study\Grayeed\Grayeed\Grayeed.WindowsPhone\obj\Debug\about_page.g.i.cs
+D:\Study\Grayeed\Grayeed\Grayeed.WindowsPhone\obj\Debug\about_page.g.cs
+D:\Study\Grayeed\Grayeed\Grayeed.WindowsPhone\obj\Debug\MainPage.g.i.cs
+D:\Study\Grayeed\Grayeed\Grayeed.WindowsPhone\obj\Debug\MainPage.g.cs
+D:\Study\Grayeed\Grayeed\Grayeed.WindowsPhone\obj\Debug\MapPage.g.i.cs
+D:\Study\Grayeed\Grayeed\Grayeed.WindowsPhone\obj\Debug\MapPage.g.cs
+D:\Study\Grayeed\Grayeed\Grayeed.WindowsPhone\obj\Debug\SecondPage.g.i.cs
+D:\Study\Grayeed\Grayeed\Grayeed.WindowsPhone\obj\Debug\SecondPage.g.cs
+D:\Study\Grayeed\Grayeed\Grayeed.WindowsPhone\obj\Debug\WebViewPage.g.i.cs
+D:\Study\Grayeed\Grayeed\Grayeed.WindowsPhone\obj\Debug\WebViewPage.g.cs
+D:\Study\Grayeed\Grayeed\Grayeed.WindowsPhone\obj\Debug\XamlTypeInfo.g.cs
+D:\Study\Grayeed\Grayeed\Grayeed.WindowsPhone\obj\Debug\App.xaml
+D:\Study\Grayeed\Grayeed\Grayeed.WindowsPhone\obj\Debug\about_page.xaml
+D:\Study\Grayeed\Grayeed\Grayeed.WindowsPhone\obj\Debug\MainPage.xaml
+D:\Study\Grayeed\Grayeed\Grayeed.WindowsPhone\obj\Debug\MapPage.xaml
+D:\Study\Grayeed\Grayeed\Grayeed.WindowsPhone\obj\Debug\SecondPage.xaml
+D:\Study\Grayeed\Grayeed\Grayeed.WindowsPhone\obj\Debug\WebViewPage.xaml
+D:\Study\Grayeed\Grayeed\Grayeed.WindowsPhone\obj\Debug\App.xbf
+D:\Study\Grayeed\Grayeed\Grayeed.WindowsPhone\obj\Debug\about_page.xbf
+D:\Study\Grayeed\Grayeed\Grayeed.WindowsPhone\obj\Debug\MainPage.xbf
+D:\Study\Grayeed\Grayeed\Grayeed.WindowsPhone\obj\Debug\MapPage.xbf
+D:\Study\Grayeed\Grayeed\Grayeed.WindowsPhone\obj\Debug\SecondPage.xbf
+D:\Study\Grayeed\Grayeed\Grayeed.WindowsPhone\obj\Debug\WebViewPage.xbf
+D:\Study\Grayeed\Grayeed\Grayeed.WindowsPhone\obj\Debug\XamlSaveStateFile.xml
+D:\Study\Grayeed\Grayeed\Grayeed.WindowsPhone\obj\Debug\Grayeed.WindowsPhone.exe
+D:\Study\Grayeed\Grayeed\Grayeed.WindowsPhone\obj\Debug\Grayeed.WindowsPhone.pdb
+D:\Study\Grayeed\Grayeed\Grayeed.WindowsPhone\obj\Debug\Grayeed.WindowsPhone.csproj.GenerateResource.Cache
+D:\Study\Grayeed\Grayeed\Grayeed.WindowsPhone\obj\Debug\priconfig.xml
+D:\Study\Grayeed\Grayeed\Grayeed.WindowsPhone\obj\Debug\priconfig.xml.intermediate
+D:\Study\Grayeed\Grayeed\Grayeed.WindowsPhone\obj\Debug\layout.resfiles
+D:\Study\Grayeed\Grayeed\Grayeed.WindowsPhone\obj\Debug\layout.resfiles.intermediate
+D:\Study\Grayeed\Grayeed\Grayeed.WindowsPhone\obj\Debug\resources.resfiles
+D:\Study\Grayeed\Grayeed\Grayeed.WindowsPhone\obj\Debug\resources.resfiles.intermediate
+D:\Study\Grayeed\Grayeed\Grayeed.WindowsPhone\obj\Debug\pri.resfiles
+D:\Study\Grayeed\Grayeed\Grayeed.WindowsPhone\obj\Debug\pri.resfiles.intermediate
+D:\Study\Grayeed\Grayeed\Grayeed.WindowsPhone\obj\Debug\qualifiers.txt
+D:\Study\Grayeed\Grayeed\Grayeed.WindowsPhone\obj\Debug\qualifiers.txt.intermediate
+D:\Study\Grayeed\Grayeed\Grayeed.WindowsPhone\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\Study\Grayeed\Grayeed\Grayeed.WindowsPhone\obj\Debug\ProjectArchitectures.txt
+D:\Assembly 5-1\جرايد\Grayeed\Grayeed\Grayeed.WindowsPhone\bin\Debug\App.xbf
+D:\Assembly 5-1\جرايد\Grayeed\Grayeed\Grayeed.WindowsPhone\bin\Debug\about_page.xbf
+D:\Assembly 5-1\جرايد\Grayeed\Grayeed\Grayeed.WindowsPhone\bin\Debug\MainPage.xbf
+D:\Assembly 5-1\جرايد\Grayeed\Grayeed\Grayeed.WindowsPhone\bin\Debug\MapPage.xbf
+D:\Assembly 5-1\جرايد\Grayeed\Grayeed\Grayeed.WindowsPhone\bin\Debug\SecondPage.xbf
+D:\Assembly 5-1\جرايد\Grayeed\Grayeed\Grayeed.WindowsPhone\bin\Debug\WebViewPage.xbf
+D:\Assembly 5-1\جرايد\Grayeed\Grayeed\Grayeed.WindowsPhone\bin\Debug\Grayeed.WindowsPhone.xr.xml
+D:\Assembly 5-1\جرايد\Grayeed\Grayeed\Grayeed.WindowsPhone\bin\Debug\Grayeed.WindowsPhone.exe
+D:\Assembly 5-1\جرايد\Grayeed\Grayeed\Grayeed.WindowsPhone\bin\Debug\Grayeed.WindowsPhone.pdb
+D:\Assembly 5-1\جرايد\Grayeed\Grayeed\Grayeed.WindowsPhone\bin\Debug\resources.pri
+D:\Assembly 5-1\جرايد\Grayeed\Grayeed\Grayeed.WindowsPhone\bin\Debug\AppxManifest.xml
+D:\Assembly 5-1\جرايد\Grayeed\Grayeed\Grayeed.WindowsPhone\bin\Debug\Grayeed.WindowsPhone.build.appxrecipe
+D:\Assembly 5-1\جرايد\Grayeed\Grayeed\Grayeed.WindowsPhone\bin\Debug\AdDuplex.Universal.Controls.WinPhone.XAML.dll
+D:\Assembly 5-1\جرايد\Grayeed\Grayeed\Grayeed.WindowsPhone\bin\Debug\AdDuplex.Universal.WinPhone.WinRT.winmd
+D:\Assembly 5-1\جرايد\Grayeed\Grayeed\Grayeed.WindowsPhone\obj\Debug\App.g.i.cs
+D:\Assembly 5-1\جرايد\Grayeed\Grayeed\Grayeed.WindowsPhone\obj\Debug\App.g.cs
+D:\Assembly 5-1\جرايد\Grayeed\Grayeed\Grayeed.WindowsPhone\obj\Debug\about_page.g.i.cs
+D:\Assembly 5-1\جرايد\Grayeed\Grayeed\Grayeed.WindowsPhone\obj\Debug\about_page.g.cs
+D:\Assembly 5-1\جرايد\Grayeed\Grayeed\Grayeed.WindowsPhone\obj\Debug\MainPage.g.i.cs
+D:\Assembly 5-1\جرايد\Grayeed\Grayeed\Grayeed.WindowsPhone\obj\Debug\MainPage.g.cs
+D:\Assembly 5-1\جرايد\Grayeed\Grayeed\Grayeed.WindowsPhone\obj\Debug\MapPage.g.i.cs
+D:\Assembly 5-1\جرايد\Grayeed\Grayeed\Grayeed.WindowsPhone\obj\Debug\MapPage.g.cs
+D:\Assembly 5-1\جرايد\Grayeed\Grayeed\Grayeed.WindowsPhone\obj\Debug\SecondPage.g.i.cs
+D:\Assembly 5-1\جرايد\Grayeed\Grayeed\Grayeed.WindowsPhone\obj\Debug\SecondPage.g.cs
+D:\Assembly 5-1\جرايد\Grayeed\Grayeed\Grayeed.WindowsPhone\obj\Debug\WebViewPage.g.i.cs
+D:\Assembly 5-1\جرايد\Grayeed\Grayeed\Grayeed.WindowsPhone\obj\Debug\WebViewPage.g.cs
+D:\Assembly 5-1\جرايد\Grayeed\Grayeed\Grayeed.WindowsPhone\obj\Debug\XamlTypeInfo.g.cs
+D:\Assembly 5-1\جرايد\Grayeed\Grayeed\Grayeed.WindowsPhone\obj\Debug\App.xaml
+D:\Assembly 5-1\جرايد\Grayeed\Grayeed\Grayeed.WindowsPhone\obj\Debug\about_page.xaml
+D:\Assembly 5-1\جرايد\Grayeed\Grayeed\Grayeed.WindowsPhone\obj\Debug\MainPage.xaml
+D:\Assembly 5-1\جرايد\Grayeed\Grayeed\Grayeed.WindowsPhone\obj\Debug\MapPage.xaml
+D:\Assembly 5-1\جرايد\Grayeed\Grayeed\Grayeed.WindowsPhone\obj\Debug\SecondPage.xaml
+D:\Assembly 5-1\جرايد\Grayeed\Grayeed\Grayeed.WindowsPhone\obj\Debug\WebViewPage.xaml
+D:\Assembly 5-1\جرايد\Grayeed\Grayeed\Grayeed.WindowsPhone\obj\Debug\App.xbf
+D:\Assembly 5-1\جرايد\Grayeed\Grayeed\Grayeed.WindowsPhone\obj\Debug\about_page.xbf
+D:\Assembly 5-1\جرايد\Grayeed\Grayeed\Grayeed.WindowsPhone\obj\Debug\MainPage.xbf
+D:\Assembly 5-1\جرايد\Grayeed\Grayeed\Grayeed.WindowsPhone\obj\Debug\MapPage.xbf
+D:\Assembly 5-1\جرايد\Grayeed\Grayeed\Grayeed.WindowsPhone\obj\Debug\SecondPage.xbf
+D:\Assembly 5-1\جرايد\Grayeed\Grayeed\Grayeed.WindowsPhone\obj\Debug\WebViewPage.xbf
+D:\Assembly 5-1\جرايد\Grayeed\Grayeed\Grayeed.WindowsPhone\obj\Debug\XamlSaveStateFile.xml
+D:\Assembly 5-1\جرايد\Grayeed\Grayeed\Grayeed.WindowsPhone\obj\Debug\Grayeed.WindowsPhone.exe
+D:\Assembly 5-1\جرايد\Grayeed\Grayeed\Grayeed.WindowsPhone\obj\Debug\Grayeed.WindowsPhone.pdb
+D:\Assembly 5-1\جرايد\Grayeed\Grayeed\Grayeed.WindowsPhone\obj\Debug\Grayeed.WindowsPhone.csproj.GenerateResource.Cache
+D:\Assembly 5-1\جرايد\Grayeed\Grayeed\Grayeed.WindowsPhone\obj\Debug\priconfig.xml
+D:\Assembly 5-1\جرايد\Grayeed\Grayeed\Grayeed.WindowsPhone\obj\Debug\priconfig.xml.intermediate
+D:\Assembly 5-1\جرايد\Grayeed\Grayeed\Grayeed.WindowsPhone\obj\Debug\layout.resfiles
+D:\Assembly 5-1\جرايد\Grayeed\Grayeed\Grayeed.WindowsPhone\obj\Debug\layout.resfiles.intermediate
+D:\Assembly 5-1\جرايد\Grayeed\Grayeed\Grayeed.WindowsPhone\obj\Debug\resources.resfiles
+D:\Assembly 5-1\جرايد\Grayeed\Grayeed\Grayeed.WindowsPhone\obj\Debug\resources.resfiles.intermediate
+D:\Assembly 5-1\جرايد\Grayeed\Grayeed\Grayeed.WindowsPhone\obj\Debug\pri.resfiles
+D:\Assembly 5-1\جرايد\Grayeed\Grayeed\Grayeed.WindowsPhone\obj\Debug\pri.resfiles.intermediate
+D:\Assembly 5-1\جرايد\Grayeed\Grayeed\Grayeed.WindowsPhone\obj\Debug\qualifiers.txt
+D:\Assembly 5-1\جرايد\Grayeed\Grayeed\Grayeed.WindowsPhone\obj\Debug\qualifiers.txt.intermediate
+D:\Assembly 5-1\جرايد\Grayeed\Grayeed\Grayeed.WindowsPhone\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\Assembly 5-1\جرايد\Grayeed\Grayeed\Grayeed.WindowsPhone\obj\Debug\ProjectArchitectures.txt

@@ -1,0 +1,255 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>SELLOU</Machine>
+    <WindowsUser>ahmed</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>3a57dc85-0caa-4828-ba32-f120bb36a49a</PackageIdentityName>
+    <IntermediateOutputPath>D:\Assembly 5-1\جرايد\Grayeed\Grayeed\Grayeed.WindowsPhone\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\Assembly 5-1\جرايد\Grayeed\Grayeed\Grayeed.WindowsPhone\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\Assembly 5-1\جرايد\Grayeed\Grayeed\Grayeed.WindowsPhone\bin\Debug\Grayeed.WindowsPhone.exe">
+      <PackagePath>Grayeed.WindowsPhone.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\WindowsPhoneApp\v8.1\ExtensionSDKs\AdDuplex.WinPhone.Extension\9.0.0.2\References\CommonConfiguration\neutral\AdDuplex.Universal.Controls.WinPhone.XAML.dll">
+      <PackagePath>AdDuplex.Universal.Controls.WinPhone.XAML.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\WindowsPhoneApp\v8.1\ExtensionSDKs\AdDuplex.WinPhone.Extension\9.0.0.2\References\CommonConfiguration\neutral\AdDuplex.Universal.WinPhone.WinRT.winmd">
+      <PackagePath>AdDuplex.Universal.WinPhone.WinRT.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\WindowsPhoneApp\v8.1\ExtensionSDKs\AdDuplex.WinPhone.Extension\9.0.0.2\Redist\CommonConfiguration\neutral\AdDuplex.Universal.Controls.WinPhone.XAML\Themes\Generic.xbf">
+      <PackagePath>AdDuplex.Universal.Controls.WinPhone.XAML\Themes\Generic.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\WindowsPhoneApp\v8.1\ExtensionSDKs\AdDuplex.WinPhone.Extension\9.0.0.2\Redist\CommonConfiguration\neutral\AdDuplex.Universal.Controls.WinPhone.XAML\InterstitialUserControl.xbf">
+      <PackagePath>AdDuplex.Universal.Controls.WinPhone.XAML\InterstitialUserControl.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly 5-1\جرايد\Grayeed\Grayeed\Grayeed.WindowsPhone\Assets\About background.png">
+      <PackagePath>Assets\About background.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly 5-1\جرايد\Grayeed\Grayeed\Grayeed.WindowsPhone\Assets\about\Assembly 5-1.png">
+      <PackagePath>Assets\about\Assembly 5-1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly 5-1\جرايد\Grayeed\Grayeed\Grayeed.WindowsPhone\Assets\about\FBL.png">
+      <PackagePath>Assets\about\FBL.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly 5-1\جرايد\Grayeed\Grayeed\Grayeed.WindowsPhone\Assets\about\Logo Icon 1.png">
+      <PackagePath>Assets\about\Logo Icon 1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly 5-1\جرايد\Grayeed\Grayeed\Grayeed.WindowsPhone\Assets\about\Logo Icon2.png">
+      <PackagePath>Assets\about\Logo Icon2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly 5-1\جرايد\Grayeed\Grayeed\Grayeed.WindowsPhone\Assets\about\TL.png">
+      <PackagePath>Assets\about\TL.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly 5-1\جرايد\Grayeed\Grayeed\Grayeed.WindowsPhone\Assets\Logo.scale-240.png">
+      <PackagePath>Assets\Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly 5-1\جرايد\Grayeed\Grayeed\Grayeed.WindowsPhone\Assets\SmallLogo.scale-240.png">
+      <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly 5-1\جرايد\Grayeed\Grayeed\Grayeed.WindowsPhone\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly 5-1\جرايد\Grayeed\Grayeed\Grayeed.WindowsPhone\Assets\SplashScreen.scale-140.png">
+      <PackagePath>Assets\SplashScreen.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly 5-1\جرايد\Grayeed\Grayeed\Grayeed.WindowsPhone\Assets\SplashScreen.scale-240.png">
+      <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly 5-1\جرايد\Grayeed\Grayeed\Grayeed.WindowsPhone\Assets\Square71x71Logo.scale-240.png">
+      <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly 5-1\جرايد\Grayeed\Grayeed\Grayeed.WindowsPhone\Assets\StoreLogo.scale-240.png">
+      <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly 5-1\جرايد\Grayeed\Grayeed\Grayeed.WindowsPhone\Assets\WideLogo.scale-240.png">
+      <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly 5-1\جرايد\Grayeed\Grayeed\Grayeed.Shared\Assets\Ahram.png">
+      <PackagePath>Assets\Ahram.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly 5-1\جرايد\Grayeed\Grayeed\Grayeed.Shared\Assets\AkhbarAlMsrieen.png">
+      <PackagePath>Assets\AkhbarAlMsrieen.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly 5-1\جرايد\Grayeed\Grayeed\Grayeed.Shared\Assets\AkhbarElYoum.png">
+      <PackagePath>Assets\AkhbarElYoum.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly 5-1\جرايد\Grayeed\Grayeed\Grayeed.Shared\Assets\Akhbark.png">
+      <PackagePath>Assets\Akhbark.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly 5-1\جرايد\Grayeed\Grayeed\Grayeed.Shared\Assets\AkhbarnaAlyom.png">
+      <PackagePath>Assets\AkhbarnaAlyom.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly 5-1\جرايد\Grayeed\Grayeed\Grayeed.Shared\Assets\AlBadil.png">
+      <PackagePath>Assets\AlBadil.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly 5-1\جرايد\Grayeed\Grayeed\Grayeed.Shared\Assets\AlBshayer.png">
+      <PackagePath>Assets\AlBshayer.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly 5-1\جرايد\Grayeed\Grayeed\Grayeed.Shared\Assets\AlbwabaNews.png">
+      <PackagePath>Assets\AlbwabaNews.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly 5-1\جرايد\Grayeed\Grayeed\Grayeed.Shared\Assets\AlDostor.png">
+      <PackagePath>Assets\AlDostor.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly 5-1\جرايد\Grayeed\Grayeed\Grayeed.Shared\Assets\Alfagr.png">
+      <PackagePath>Assets\Alfagr.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly 5-1\جرايد\Grayeed\Grayeed\Grayeed.Shared\Assets\Aljomhoria.png">
+      <PackagePath>Assets\Aljomhoria.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly 5-1\جرايد\Grayeed\Grayeed\Grayeed.Shared\Assets\Alkhamees.png">
+      <PackagePath>Assets\Alkhamees.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly 5-1\جرايد\Grayeed\Grayeed\Grayeed.Shared\Assets\AlMasrion.png">
+      <PackagePath>Assets\AlMasrion.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly 5-1\جرايد\Grayeed\Grayeed\Grayeed.Shared\Assets\AlmasryAlyoum.png">
+      <PackagePath>Assets\AlmasryAlyoum.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly 5-1\جرايد\Grayeed\Grayeed\Grayeed.Shared\Assets\Almogaz.png">
+      <PackagePath>Assets\Almogaz.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly 5-1\جرايد\Grayeed\Grayeed\Grayeed.Shared\Assets\AlNahar.png">
+      <PackagePath>Assets\AlNahar.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly 5-1\جرايد\Grayeed\Grayeed\Grayeed.Shared\Assets\AlQahiraAlyom.png">
+      <PackagePath>Assets\AlQahiraAlyom.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly 5-1\جرايد\Grayeed\Grayeed\Grayeed.Shared\Assets\AlSabahElAraby.png">
+      <PackagePath>Assets\AlSabahElAraby.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly 5-1\جرايد\Grayeed\Grayeed\Grayeed.Shared\Assets\AlShaab.png">
+      <PackagePath>Assets\AlShaab.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly 5-1\جرايد\Grayeed\Grayeed\Grayeed.Shared\Assets\AlShrouk.png">
+      <PackagePath>Assets\AlShrouk.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly 5-1\جرايد\Grayeed\Grayeed\Grayeed.Shared\Assets\AlTahrir.png">
+      <PackagePath>Assets\AlTahrir.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly 5-1\جرايد\Grayeed\Grayeed\Grayeed.Shared\Assets\Alwafd.png">
+      <PackagePath>Assets\Alwafd.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly 5-1\جرايد\Grayeed\Grayeed\Grayeed.Shared\Assets\AlWast.png">
+      <PackagePath>Assets\AlWast.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly 5-1\جرايد\Grayeed\Grayeed\Grayeed.Shared\Assets\AlWatn.png">
+      <PackagePath>Assets\AlWatn.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly 5-1\جرايد\Grayeed\Grayeed\Grayeed.Shared\Assets\AlyoumAlsabee.png">
+      <PackagePath>Assets\AlyoumAlsabee.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly 5-1\جرايد\Grayeed\Grayeed\Grayeed.Shared\Assets\bWABTaLoSBOO.PNG">
+      <PackagePath>Assets\bWABTaLoSBOO.PNG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly 5-1\جرايد\Grayeed\Grayeed\Grayeed.Shared\Assets\Email.png">
+      <PackagePath>Assets\Email.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly 5-1\جرايد\Grayeed\Grayeed\Grayeed.Shared\Assets\Facebook.png">
+      <PackagePath>Assets\Facebook.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly 5-1\جرايد\Grayeed\Grayeed\Grayeed.Shared\Assets\FaceMasr.png">
+      <PackagePath>Assets\FaceMasr.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly 5-1\جرايد\Grayeed\Grayeed\Grayeed.Shared\Assets\gPlus.png">
+      <PackagePath>Assets\gPlus.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly 5-1\جرايد\Grayeed\Grayeed\Grayeed.Shared\Assets\IC488534.png">
+      <PackagePath>Assets\IC488534.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly 5-1\جرايد\Grayeed\Grayeed\Grayeed.Shared\Assets\Instagram.png">
+      <PackagePath>Assets\Instagram.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly 5-1\جرايد\Grayeed\Grayeed\Grayeed.Shared\Assets\LinkedIn.png">
+      <PackagePath>Assets\LinkedIn.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly 5-1\جرايد\Grayeed\Grayeed\Grayeed.Shared\Assets\MasrAlArbia.png">
+      <PackagePath>Assets\MasrAlArbia.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly 5-1\جرايد\Grayeed\Grayeed\Grayeed.Shared\Assets\MasrAlyom.png">
+      <PackagePath>Assets\MasrAlyom.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly 5-1\جرايد\Grayeed\Grayeed\Grayeed.Shared\Assets\MasrFive.png">
+      <PackagePath>Assets\MasrFive.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly 5-1\جرايد\Grayeed\Grayeed\Grayeed.Shared\Assets\mmmmmm.png">
+      <PackagePath>Assets\mmmmmm.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly 5-1\جرايد\Grayeed\Grayeed\Grayeed.Shared\Assets\Moheet.png">
+      <PackagePath>Assets\Moheet.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly 5-1\جرايد\Grayeed\Grayeed\Grayeed.Shared\Assets\Ona.png">
+      <PackagePath>Assets\Ona.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly 5-1\جرايد\Grayeed\Grayeed\Grayeed.Shared\Assets\Phone.png">
+      <PackagePath>Assets\Phone.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly 5-1\جرايد\Grayeed\Grayeed\Grayeed.Shared\Assets\Rasd.png">
+      <PackagePath>Assets\Rasd.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly 5-1\جرايد\Grayeed\Grayeed\Grayeed.Shared\Assets\SadaElBalad.png">
+      <PackagePath>Assets\SadaElBalad.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly 5-1\جرايد\Grayeed\Grayeed\Grayeed.Shared\Assets\Sha3bMasr.png">
+      <PackagePath>Assets\Sha3bMasr.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly 5-1\جرايد\Grayeed\Grayeed\Grayeed.Shared\Assets\ssssss.png">
+      <PackagePath>Assets\ssssss.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly 5-1\جرايد\Grayeed\Grayeed\Grayeed.Shared\Assets\twitter.png">
+      <PackagePath>Assets\twitter.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly 5-1\جرايد\Grayeed\Grayeed\Grayeed.Shared\Assets\Veto.png">
+      <PackagePath>Assets\Veto.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly 5-1\جرايد\Grayeed\Grayeed\Grayeed.Shared\Assets\webSite.png">
+      <PackagePath>Assets\webSite.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly 5-1\جرايد\Grayeed\Grayeed\Grayeed.Shared\Assets\youtube.png">
+      <PackagePath>Assets\youtube.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly 5-1\جرايد\Grayeed\Grayeed\Grayeed.WindowsPhone\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly 5-1\جرايد\Grayeed\Grayeed\Grayeed.WindowsPhone\bin\Debug\about_page.xbf">
+      <PackagePath>about_page.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly 5-1\جرايد\Grayeed\Grayeed\Grayeed.WindowsPhone\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly 5-1\جرايد\Grayeed\Grayeed\Grayeed.WindowsPhone\bin\Debug\MapPage.xbf">
+      <PackagePath>MapPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly 5-1\جرايد\Grayeed\Grayeed\Grayeed.WindowsPhone\bin\Debug\SecondPage.xbf">
+      <PackagePath>SecondPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly 5-1\جرايد\Grayeed\Grayeed\Grayeed.WindowsPhone\bin\Debug\WebViewPage.xbf">
+      <PackagePath>WebViewPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly 5-1\جرايد\Grayeed\Grayeed\Grayeed.WindowsPhone\bin\Debug\Grayeed.WindowsPhone.xr.xml">
+      <PackagePath>Grayeed.WindowsPhone.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Assembly 5-1\جرايد\Grayeed\Grayeed\Grayeed.WindowsPhone\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

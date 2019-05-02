@@ -1,0 +1,87 @@
+﻿<Page
+    x:Class="Grayeed.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Grayeed"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    xmlns:ad="using:AdDuplex.Universal.Controls.WinPhone.XAML"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <ScrollViewer VerticalScrollBarVisibility="Visible" HorizontalScrollBarVisibility="Disabled">
+
+        <Grid>
+            <Grid.Background>
+                <ImageBrush Stretch="Fill" ImageSource="Assets/mmmmmm.png"/>
+            </Grid.Background>  
+                        
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="100"/>
+                    <RowDefinition Height="100"/>
+                    <RowDefinition Height="*"/>
+                </Grid.RowDefinitions>
+                <TextBlock Text="جرايد" HorizontalAlignment="Center" FontSize="85" />
+                <ad:AdControl Margin="5,5,5,5" Grid.Row="1"  AppId="142915" x:Name="adDuplexAd"/>
+            <Grid Grid.Row="2">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="1*"/>
+                    <RowDefinition Height="1*"/>
+                    <RowDefinition Height="1*"/>
+                    <RowDefinition Height="1*"/>
+                    <RowDefinition Height="1*"/>
+                    <RowDefinition Height="1*"/>
+                    <RowDefinition Height="1*"/>
+                    <RowDefinition Height="1*"/>
+                    <RowDefinition Height="1*"/>
+                    <RowDefinition Height="1*"/>
+                    <RowDefinition Height="1*"/>
+                    <RowDefinition Height="1*"/>
+                    <RowDefinition Height="1*"/>
+                    <RowDefinition Height="1*"/>
+                    <RowDefinition Height="1*"/>
+                    <RowDefinition Height="1*"/>
+                    <RowDefinition Height="1*"/>
+                    <RowDefinition Height="1*"/>
+                    <RowDefinition Height="1*"/>
+                    <RowDefinition Height="1*"/>
+                    <RowDefinition Height="1*"/>
+                    <RowDefinition Height="1*"/>
+                    <RowDefinition Height="1*"/>
+                    <RowDefinition Height="1*"/>
+                    <RowDefinition Height="1*"/>
+                    <RowDefinition Height="1*"/>
+                    <RowDefinition Height="1*"/>
+                    <RowDefinition Height="1*"/>
+                    <RowDefinition Height="1*"/>
+                    <RowDefinition Height="1*"/>
+                    <RowDefinition Height="1*"/>
+                    <RowDefinition Height="1*"/>
+                    <RowDefinition Height="1*"/>
+                    <RowDefinition Height="1*"/>
+                    <RowDefinition Height="1*"/>
+                    <RowDefinition Height="1*"/>
+                </Grid.RowDefinitions>
+                <ListView x:Name="MyList" 
+                          SelectionMode="None"
+                          IsItemClickEnabled="True"
+                          ItemClick="MyList_ItemClick"
+                         >
+                    
+                    <ListView.ItemTemplate>
+                        <DataTemplate>
+                            <Image Source="{Binding Image}" Margin="75,10,10,5" Width="250" Height="250"  HorizontalAlignment="Center"  Stretch="Fill" />
+                        </DataTemplate>
+                    </ListView.ItemTemplate>
+                    
+                </ListView>
+            </Grid>
+
+        </Grid>
+    </ScrollViewer>
+    <Page.BottomAppBar>
+        <CommandBar>
+            <AppBarButton Icon="Bullets" Label="عن التطبيق" Click="AppBarButton_Click"/>
+        </CommandBar>
+    </Page.BottomAppBar>
+</Page>
